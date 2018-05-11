@@ -10,7 +10,7 @@ Key Contacts:
 
 
 
-Contacts may be reached by sending mail to ntru-crypto@securityinnovation.com
+Contacts may be reached by sending mail to support@onboardsecurity.com
 
 Project Overview
 ================

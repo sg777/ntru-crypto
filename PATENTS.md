@@ -24,7 +24,7 @@ Aug 24, 2001	US, Europe, Canada
 NTRUMLS and PASS Patent Licensing
 ================================
 
-Security Innovation NTRU cryptographic software invention and reference source code including NTRUMLS and PASS is a **dual license** product available under open source and standard commercial licensing. 
+OnBoard Security (formerly Security Innovation, embedded business department) NTRU cryptographic software invention and reference source code including NTRUMLS and PASS is a **dual license** product available under open source and standard commercial licensing. 
 
 GPL
 ===========

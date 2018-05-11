@@ -4,7 +4,7 @@ This page describes how to contribute to the NTRU GitHub source control reposito
 
 Contributor Agreement
 =====================
-To contribute code you must read, sign and return the CONTRIBUTOR AGREEMENT included in this distribution.  Signed copies may either be converted to PDF and mailed to ntru-crypto@securityinnovation.com or faxed to +1.978.694.1666.  
+To contribute code you must read, sign and return the CONTRIBUTOR AGREEMENT included in this distribution.  Signed copies shold be converted to PDF and mailed to support@onboardsecurity.com.  
 
 Content
 =======
@@ -46,7 +46,7 @@ Make sure to respond to all comments and questions from folks who review your co
 
 Copyright and Attestation
 ===========
-Security Innovation, Inc. retains ownership and copyright to all code in the project including that which is contributed by Security Innovation and all third parties. If you make substantive changes to a file or create new assets, you may wish to add a copyright line for yourself or for the company on whose behalf you work in addition to the standard required copyright heading below. Some sample copyright lines for an individual contributor and a company:
+OnBoard Security, Inc. retains ownership and copyright to all code in the project including that which is contributed by OnBoard Security and all third parties. If you make substantive changes to a file or create new assets, you may wish to add a copyright line for yourself or for the company on whose behalf you work in addition to the standard required copyright heading below. Some sample copyright lines for an individual contributor and a company:
 
  * Copyright (C) 2011 John Smith (jsmith@example.com)
  * Copyright (C) 2011 Company Inc. All rights reserved.
