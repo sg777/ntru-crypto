@@ -13,3 +13,6 @@
 [submodule "reference-code/Gaussian-pqNTRUSign"]
 	path = reference-code/Gaussian-pqNTRUSign
 	url = git@github.com:zhenfeizhang/Gaussian-pqNTRUSign.git
+[submodule "NIST/ntruencrypt_nist_submission"]
+	path = NIST/ntruencrypt_nist_submission
+	url = git@github.com/NTRUOpenSourceProject/ntruencrypt_nist_submission
